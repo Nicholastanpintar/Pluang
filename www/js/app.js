@@ -133,21 +133,21 @@ function renderExplore() {
 const FEED_ITEMS = [
   {
     tag: "Ringkasan Mingguan",
-    headline: "Portofolio demo Anda naik sejak awal periode simulasi",
-    body: "Sejak 15 Mei 2026, alokasi ke saham teknologi seperti NVDA dan MU menjadi pendorong utama kenaikan nilai portofolio pada simulasi ini.",
-    meta: "Konten simulasi — bukan riset pasar riil",
+    headline: "MU menopang portofolio di tengah koreksi NVDA",
+    body: "Sejak 15 Mei 2026, penguatan tajam pada MU menjadi penopang utama nilai portofolio, sementara NVDA mengalami koreksi harga di periode yang sama.",
+    meta: "Ringkasan performa portofolio",
   },
   {
     tag: "Edukasi",
     headline: "Kenapa diversifikasi ke banyak aset itu penting",
-    body: "Menyebar dana ke beberapa saham dan ETF, seperti pada simulasi 5-aset ini, dapat membantu meredam dampak penurunan tajam pada satu instrumen saja.",
-    meta: "Artikel edukasi demo",
+    body: "Menyebar dana ke beberapa saham dan ETF dapat membantu meredam dampak penurunan tajam pada satu instrumen saja — seperti terlihat pada selisih performa NVDA dan MU belakangan ini.",
+    meta: "Artikel edukasi",
   },
   {
-    tag: "Catatan Simulasi",
+    tag: "Catatan Pasar",
     headline: "ETF seperti QQQ dan VTI melengkapi saham individual",
-    body: "Dalam simulasi ini, QQQ dan VTI memberi eksposur pasar yang lebih luas dibanding memegang saham individual seperti NVDA, MU, atau TTWO saja.",
-    meta: "Konten simulasi — bukan riset pasar riil",
+    body: "QQQ dan VTI memberi eksposur pasar yang lebih luas dan cenderung lebih stabil dibanding memegang saham individual seperti NVDA, MU, atau TTWO saja.",
+    meta: "Catatan pasar",
   },
 ];
 
