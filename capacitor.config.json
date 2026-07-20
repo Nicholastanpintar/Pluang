@@ -1,0 +1,9 @@
+{
+  "appId": "com.nicholastanpintar.nivest",
+  "appName": "Nivest",
+  "webDir": "www",
+  "backgroundColor": "#0b0b10",
+  "android": {
+    "backgroundColor": "#0b0b10"
+  }
+}

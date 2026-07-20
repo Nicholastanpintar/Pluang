@@ -1,0 +1,15 @@
+{
+  "name": "nivest-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nivest demo investment portfolio app — Capacitor Android wrapper build config.",
+  "scripts": {
+    "android:build": "npx cap add android && npx @capacitor/assets generate --android && npx cap sync android"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}
